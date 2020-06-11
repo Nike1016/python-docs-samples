@@ -1,3 +1,5 @@
 Flask==1.0.2
 google-cloud-storage==1.13.2
 gunicorn==19.9.0
+
+rsa>=4.1 # not directly required, pinned by Snyk to avoid a vulnerability
