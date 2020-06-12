@@ -1,3 +1,5 @@
 grpcio
 opencensus-ext-stackdriver==0.2.1
 opencensus==0.4.1
+
+rsa>=4.1 # not directly required, pinned by Snyk to avoid a vulnerability
