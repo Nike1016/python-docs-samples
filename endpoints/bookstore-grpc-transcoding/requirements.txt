@@ -3,3 +3,5 @@ grpcio-tools>=1.10.0
 google-auth>=1.4.1
 six>=1.11
 googleapis-common-protos>=1.5.3
+
+rsa>=4.1 # not directly required, pinned by Snyk to avoid a vulnerability
