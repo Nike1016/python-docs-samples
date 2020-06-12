@@ -2,3 +2,5 @@ google-cloud-bigquery[pandas]==1.9.0
 flaky==3.5.3
 mock==2.0.0
 pytest==4.2.0
+
+rsa>=4.1 # not directly required, pinned by Snyk to avoid a vulnerability
