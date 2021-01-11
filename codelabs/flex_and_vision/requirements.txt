@@ -3,3 +3,4 @@ gunicorn==19.9.0
 google-cloud-vision==0.35.2
 google-cloud-storage==1.13.2
 google-cloud-datastore==1.7.3
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
