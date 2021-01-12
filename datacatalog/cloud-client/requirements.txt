@@ -1,1 +1,2 @@
 google-cloud-datacatalog==0.1.0
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
